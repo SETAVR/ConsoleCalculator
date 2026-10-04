@@ -1,0 +1,10 @@
+build/
+debug/
+release/
+*.user
+*.o
+*.obj
+moc_*
+*.exe
+Makefile
+history.txt
